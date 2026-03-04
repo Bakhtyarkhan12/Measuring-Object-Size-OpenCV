@@ -1,6 +1,6 @@
 # Measuring Object Size Using Python & OpenCV
 
-By **Usman Noor** & **Bakhtiyar Saeed**  
+By **Bakhtiyar Saeed**  
 Subject: Digital Image Processing (DIP) — BS IT 8th Semester
 
 ---
